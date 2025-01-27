@@ -1,0 +1,4 @@
+CustomerID,LookalikeCustomerID,SimilarityScore
+101,0,1.0
+101,3,0.9997382136511463
+101,2,0.9979276982091876
